@@ -1,2 +1,3 @@
 # Blood_on_the_Camino
-A repository for a super awesome text-based adventure game.
+
+This text-based adventure is written in Python. It is a collection of if, elif, and else statements which print out strings based on user responses. This being my first project, I wanted to keep it simple in order to solidify what I’ve learned and further, to stay motivated for more. The input() commands were something new to me, and it has gotten my mind racing as to what else is possible. One discovery I made was how to make the game replayable without having to relaunch it each time a loop ended. Finally, I turned my story loop into a function, and created a function that gives an option to replay the game without needing to relaunch from the terminal.
